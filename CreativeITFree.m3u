@@ -21,29 +21,16 @@ http://str24.l9574.com:80/512.stream/index.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/lGoxDN6.png",10.DESHI BEDESHI [BD]
 https://tempx.jagobd.com:441/live-orgin/deshebideshe.stream/chunks.m3u8
-#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/QfwoJnc.png",11.BISWA BANGLA [BD]
-https://tempx.jagobd.com:441/live-orgin/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/QssgV7D.png" ,12.VARENDRA TV [BD]
 https://tempx.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/C1wdPgs", 13.CUMILLA 24 [BD]
 https://tempskyview.jagobd.com:441/live-orgin/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg",14.MOVIE BANGLA [BD]
 https://tempskyview.jagobd.com:441/live-orgin/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png",15.CreativeIT BD HD
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png",15.Bangla TV HD
 https://tempskyview.jagobd.com:441/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/nYRFnW5.png",20.CHANNEL I [BD]
-http://103.159.4.38:5868/BD-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/WCphgzj.png",21.ATN BANGLA [BD]
-http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/giqoc2X.png",22.DEEPTO TV [BD]
-http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/sTDSKGR.png",23.CHANNEL 9 [BD]
-http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
-#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/zsahmn3.png",24.MAASRANGA TV [BD]
-http://iptvbd.jagobd.com:1931/live-orgin/mass.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/KXsOj3L.png",25.BOISHAKHI TV [BD]
-http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/00HdGFD.png",26.BANGLA VISION [BD]
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/TWuzjbg.png",27.MY TV [BD]
@@ -52,8 +39,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 https://somoy.appv.jagobd.com:444/somoy/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/kDmkexe.png",29.BIJOY TV [BD]
 https://somoy.appv.jagobd.com:444/somoy/bijoy00.stream/playlist.m3u8
-#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/JgkIH3w.png",30.Desh TV [BD]
-https://somoy.appv.jagobd.com:444/somoy/deshtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/kA2ZJQB.png",34.NEXUS TV [BD]
 http://103.55.144.46/hls/nexus.m3u
 #EXTINF:-1 group-title="CreativeIT BD News" tvg-logo="https://i.imgur.com/AMk8mRZ.png",31.INDEPENDENT [BD]

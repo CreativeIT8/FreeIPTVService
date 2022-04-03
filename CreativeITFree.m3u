@@ -69,3 +69,54 @@ http://103.55.144.46/hls/colorsbangla.m3u8
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 group-title="CreativeIT Indian Bangla" tvg-logo="https://imgur.com/SY46rYQ.png",Zee Bangla Cinema HD
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
+
+************************Hindi*************CreativeIT**********
+
+
+#EXTINF:-1 tvg-logo="" group-title="CreativeIT Hindi",Color Cineplex HD
+http://103.55.144.46/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="CreativeIT Hindi",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="CreativeIT Hindi",UTV Action
+#http://103.55.144.46/hls/utvaction.m3u8
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="CreativeIT Hindi", &Tv
+http://103.149.130.122:8089/74/index.m3u8
+#EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="CreativeIT Hindi", &PICTURES
+#http://103.55.144.46/hls/andpictures.m3u8
+#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="CreativeIT Hindi",Star Gold HD
+http://103.55.144.46/hls/stargold.m3u8
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="CreativeIT Hindi",Star Gold-2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="CreativeIT Hindi",Star Gold Select HD 
+http://ottss.online:8000/44122162500170/30316873476781/178702
+#EXTINF:-1 tvg-logo="" group-title="CreativeIT Hindi",Zee tv
+#http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
+http://103.149.130.122:8089/40/index.m3u8
+#EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="CreativeIT Hindi", Zee Cinema
+http://103.55.144.46/hls/zeecinemahd.m3u8
+http://103.149.130.122:8089/76/index.m3u8
+#EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="CreativeIT Hindi", Zee Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-107 tvg-name="Zee Action" tvg-logo="" group-title="CreativeIT Hindi", Zee Action
+#http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3971
+#http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/90/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="CreativeIT Hindi",Sony Entertainment HD
+#http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/38/index.m3u8
+#EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="CreativeIT Hindi",SONY SAB
+http://103.72.179.30:1935/GECCreativeIT Hindi/SONY_SAB.stream_720p/Playlist.m3u8
+http://103.149.130.122:8089/36/index.m3u8
+#EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="CreativeIT Hindi",SONY MAX SD
+http://103.55.144.46/hls/sony-maxhd.m3u8
+#http://103.72.179.30:1935/CreativeIT HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8
+http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34489?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="CreativeIT Hindi",SONY MAX HD
+#http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
+http://103.149.130.122:8089/77/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="CreativeIT Hindi",SONY MAX-2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CreativeIT Hindi",ARY DIGITAL
+http://42.200.67.163:8090/play/a0qc

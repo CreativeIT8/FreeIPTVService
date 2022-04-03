@@ -1,107 +1,66 @@
 #EXTM3U
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/RR0Iv6V.png", BTV [BD]
+http://103.149.130.122:8089/53/index.m3u8
 
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg",1.ROYAL TV[BD]
+https://tempskyview.jagobd.com:441/live-orgin/royaltv.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png",2.NRB IPTV [BD]
+https://tempskyview.jagobd.com:441/live-orgin/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/wMH3tLM.png",3.VOICE TV [BD]
+https://tempx.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/wPyNdlm.png",4.DOYEL TV [BD]
+https://tempx.jagobd.com:441/live-orgin/doyeltv.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/e9odWeU.png",5.SRISTY TV [BD]
+https://tempx.jagobd.com:441/live-orgin/sristytv.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/ZHvSsqG.png",6.DESHI TV [BD]
+http://str24.l9574.com:80/514.stream/index.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/Yz9WnlX.png",7.NAN TV [BD]
+https://tempskyview.jagobd.com:441/live-orgin/nantv.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/ASztPbS.png", 8.I TV [BD]
+http://str24.l9574.com:80/512.stream/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17119894_ico.png?ts=1639035805" group-title="CreativeIT BD",CreativeIT BD television (720p)
-http://stream.wowzacdn.com/fh3rhr3j3/23998_hhs/btv.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://chsuk.tv/img/cateringcircle.png",9.CHANEL S [BD]
+http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/lGoxDN6.png",10.DESHI BEDESHI [BD]
+https://tempx.jagobd.com:441/live-orgin/deshebideshe.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/QfwoJnc.png",11.BISWA BANGLA [BD]
+https://tempx.jagobd.com:441/live-orgin/biswabanglatv.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/QssgV7D.png" ,12.VARENDRA TV [BD]
+https://tempx.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/C1wdPgs", 13.CUMILLA 24 [BD]
+https://tempskyview.jagobd.com:441/live-orgin/cumilla24.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg",14.MOVIE BANGLA [BD]
+https://tempskyview.jagobd.com:441/live-orgin/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png",15.CreativeIT BD HD
+https://tempskyview.jagobd.com:441/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/nYRFnW5.png",20.CHANNEL I [BD]
+http://103.159.4.38:5868/BD-BANGLA-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/WCphgzj.png",21.ATN BANGLA [BD]
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/giqoc2X.png",22.DEEPTO TV [BD]
+http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/sTDSKGR.png",23.CHANNEL 9 [BD]
+http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/zsahmn3.png",24.MAASRANGA TV [BD]
+http://iptvbd.jagobd.com:1931/live-orgin/mass.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pg1FPcn.png" group-title="CreativeIT BD",BTV World (720p)
-http://stream.wowzacdn.com/74urhfje3/G6K25_6d8/btv_world.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="CreativeIT BD",Sangsad Tv (1080p)
-http://stream.wowzacdn.com/kfhsiw49a/fdkfj84_jfy/sangsad.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/CreativeIT BD_Television_Chittagong_Logo.png/250px-CreativeIT BD_Television_Chittagong_Logo.png" group-title="CreativeIT BD",BTV Chittagong (1080p)
-http://stream.wowzacdn.com/3Hsj5gfh/9fhejb_2kf/btv_ctg.m3u8
-
-#EXTINF: -1 tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-14FA4A5F18-seeklogo.com.png" group-title="CreativeIT BD",ATN Bangla (480p)
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="CreativeIT BD",Channel I HD (1080p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="CreativeIT BD",Ekhushey TV (480p)
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28CreativeIT BD%29_logo.svg/1200px-NTV_%28CreativeIT BD%29_logo.svg.png" group-title="CreativeIT BD",NTV
-http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_CreativeIT BD.svg/1200px-Rtv_CreativeIT BD.svg.png" group-title="CreativeIT BD",RTV HD (1080p)
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1160px-Boishakhi_TV_logo.svg.png" group-title="CreativeIT BD",Boishakhi TV (720p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="CreativeIT BD",Bangla Vision (1080p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://media-exp1.licdn.com/dms/image/C511BAQGNgYohra5ARw/company-background_10000/0/1579433519941?e=2159024400&v=beta&t=-O8mTZS4DlqB2Yz_GJoNB4uRRDq3F2bNvQu5QBJslfc" group-title="CreativeIT BD",Desh TV (720p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1200px-My_TV_Logo.svg.png" group-title="CreativeIT BD",My TV HD (1080p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/800px-Mohona_tv_Logo.svg.png" group-title="CreativeIT BD",Mohona TV HD (720p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="CreativeIT BD",Maasranga Telivision HD (1080p)
-http://103.159.4.38:8080/BD-BANGLA-19/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="CreativeIT BD",Channel 9 HD (720p)
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="CreativeIT BD",GTV HD
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="CreativeIT BD",Asian TV HD (480p)
-http://103.159.4.38:8080/BD-BANGLA-22/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRnQHs5kqHSl-LdD8iyVongJxeYEVLvE7C_PhJHrg=s900-c-k-c0x00ffffff-no-rj" group-title="CreativeIT BD",SA TV HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://televisionbd.com/uploads/tv_image/deepto-tv.jpeg" group-title="CreativeIT BD",Deepto TV HD
-http://209.126.120.153:80/hls/deeptotv.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="CreativeIT BD",Bangla TV (720p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" group-title="CreativeIT BD",Nagorik TV
-http://bciptv.net:8082/nagorik-tv/tracks-v1a1/mono.m3u8?token=b8e860359f1c610f26c008848d4020365b378cf9-f36e1025eadfb14d0e40fd401001a800-1643978792-1643967992
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/280px-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="CreativeIT BD",Ananda TV (720p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="CreativeIT BD",Nexus Telivision
-http://live.flixhub.net/hls/nexus.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="CreativeIT BD",Atn News 24x7 (720p)
-http://103.159.4.38:8080/BD-BANGLA-14/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="CreativeIT BD",Independent Telivision (720p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="CreativeIT BD",Somoy TV (1080p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="CreativeIT BD",Channel 24 HD (720p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRS_N5kWe_MExBd2a5ZbnfGM-bD8okthdpQqpRGhg=s900-c-k-c0x00ffffff-no-rj" group-title="CreativeIT BD",Ekattor TV HD (720p)
-http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" group-title="CreativeIT BD",Jamuna Telivision 24x7 (720p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="CreativeIT BD",News 24 HD (720p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpaELcGGIQLQ5PmXlTiCZY4z75Fqal8Vsxw&usqp=CAU" group-title="CreativeIT BD",DBC News HD (1080p)
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohZM1un9pMGU_T8e4MHBDxTMA42_Zxxx5Wg&usqp=CAU" group-title="CreativeIT BD",Gaan Bangla TV (720p)
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmSXzGpKgxtnDFQP9V_elH7DAXaYVQG9CXg&usqp=CAU" group-title="CreativeIT BD",Duronto TV (1080p)
-http://89.187.185.89:3232/ban-duronto/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png" group-title="CreativeIT BD",Bijoy TV (720p)
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/KXsOj3L.png",25.BOISHAKHI TV [BD]
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/00HdGFD.png",26.BANGLA VISION [BD]
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/TWuzjbg.png",27.MY TV [BD]
+http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/UHd3eew.png",28.RTV [BD]
+https://somoy.appv.jagobd.com:444/somoy/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/kDmkexe.png",29.BIJOY TV [BD]
+https://somoy.appv.jagobd.com:444/somoy/bijoy00.stream/playlist.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://i.imgur.com/JgkIH3w.png",30.Desh TV [BD]
+https://somoy.appv.jagobd.com:444/somoy/deshtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/kA2ZJQB.png",34.NEXUS TV [BD]
+http://103.55.144.46/hls/nexus.m3u
+#EXTINF:-1 group-title="CreativeIT BD News" tvg-logo="https://i.imgur.com/AMk8mRZ.png",31.INDEPENDENT [BD]
+http://103.55.144.46/hls/indepen.m3u8
+#EXTINF:-1 group-title="CreativeIT BD News" tvg-logo="https://i.imgur.com/GKZxePQ.png",32.JAMUNA TV [BD]
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 group-title="CreativeIT BD News" tvg-logo="https://i.imgur.com/18m3T6f.jpg",33.SOMOY TV [BD]
+http://103.55.144.46/hls/somoy.m3u8

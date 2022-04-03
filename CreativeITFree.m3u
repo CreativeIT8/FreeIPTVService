@@ -10,8 +10,6 @@ https://tempskyview.jagobd.com:441/live-orgin/nrb-eu.stream/chunks.m3u8
 https://tempx.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/wPyNdlm.png",4.DOYEL TV [BD]
 https://tempx.jagobd.com:441/live-orgin/doyeltv.stream/chunks.m3u8
-#EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/e9odWeU.png",5.SRISTY TV [BD]
-https://tempx.jagobd.com:441/live-orgin/sristytv.stream/chunks.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/ZHvSsqG.png",6.DESHI TV [BD]
 http://str24.l9574.com:80/514.stream/index.m3u8
 #EXTINF:-1 group-title="CreativeIT BD" tvg-logo="https://imgur.com/Yz9WnlX.png",7.NAN TV [BD]

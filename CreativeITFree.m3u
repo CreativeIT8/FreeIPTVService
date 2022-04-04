@@ -107,7 +107,7 @@ http://103.149.130.122:8089/90/index.m3u8
 #http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.149.130.122:8089/38/index.m3u8
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="CreativeIT Hindi",SONY SAB
-http://103.72.179.30:1935/GECCreativeIT Hindi/SONY_SAB.stream_720p/Playlist.m3u8
+#http://103.72.179.30:1935/GECCreativeIT Hindi/SONY_SAB.stream_720p/Playlist.m3u8
 http://103.149.130.122:8089/36/index.m3u8
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="CreativeIT Hindi",SONY MAX SD
 http://103.55.144.46/hls/sony-maxhd.m3u8
@@ -161,7 +161,7 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 
 
 #EXTINF:-1 group-title="CreativeIT KIDS" tvg-logo="https://i.imgur.com/7sUmqv2.png",WZra CreativeIT KIDS TV
-http://wpso.com:1936/hls/CreativeIT KIDShd.m3u8
+http://wpso.com:1936/hls/KIDShd.m3u8
 
 #EXTINF:-1 group-title="CreativeIT KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Spacetoon_logo.png/revision/latest?cb=20180926071319",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
@@ -178,3 +178,74 @@ http://210.210.155.35/dr9445/h/h02/02.m3u8
 #EXTINF:-1 group-title="CreativeIT KIDS" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
 #http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&q=1200&e=.m3u8
+
+
+
+******************Documentary********CreativeIT*******
+
+#EXTINF:-1 group-title="CreativeIT Documentary" tvg-logo="https://i.imgur.com/uQ4iijb.png",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 group-title="CreativeIT Documentary" tvg-logo="https://i.imgur.com/4duWidg.png",National Geographic 
+http://iptv.prosto.tv:7000/ch83/video.m3u8
+
+#EXTINF:-1 group-title="CreativeIT Documentary" tvg-logo="https://i.imgur.com/daMmAUf.png",BBC Earth
+http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="CreativeIT Documentary",Love nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="CreativeIT Documentary" tvg-logo="https://i.imgur.com/3ECPiGU.png",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CreativeIT Documentary" tvg-logo="https://i.imcom/8GG7Ny9.png",Outdoorchannel
+https://outdoorchannel-samsungau.amagi.tv/playlist1080p.m3u8
+
+*****************English News**********CreativeIT*******
+
+#EXTINF:-1 group-title ="CreativeIT English News" tvg-logo="https://i.imgur.com/fRivJD3.jpg" , Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 group-title ="CreativeIT English News" tvg-logo="https://i.imgur.com/fRivJD3.jpg" , Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title ="CreativeIT English News" tvg-logo="https://i.imgur.com/LD1Lj0v.png" , DW News
+https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8
+#EXTINF:-1 group-title ="CreativeIT English News" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1.png" , CNN NEWS
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+
+******************Entertainment**********CreativeIT********
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="CreativeIT English",73.Sony Pix HD
+http://103.55.144.46/hls/sonypixhd.m3u8
+
+
+#EXTINF:-1 group-title="CreativeIT English" tvg-logo="https://i.imgur.com/5rySAnH.jpg",Comedy Dynamics
+https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="CreativeIT English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU",Star Movies HD
+http://103.55.144.46/hls/starmovies.m3u8
+#https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
+#http://221.120.204.4/STAR-HOLLYWOODEAS-LOCKLE/index.m3u8
+
+#EXTINF:-1 group-title="CreativeIT English" tvg-logo="https://i.imgur.com/7JTh1bc.png",Star World HD
+http://103.55.144.46/hls/star-worldhd.m3u8
+#http://221.120.204.4/star-world-LOCKLE/index.m3u8
+
+
+#EXTINF:-1 group-title="CreativeIT English" tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png",HBO
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#https://gratismkctv.net/film/hbo.m3u8
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="CreativeIT English" tvg-logo="https://i.imgur.com/acn9s5i.png",Movies Now
+http://103.55.144.46/hls/movies-now.m3u8
+
+#EXTINF:-1 group-title="CreativeIT English" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",CineMax
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+
+#EXTINF:-1 group-title="CreativeIT English" tvg-logo="https://i.imgur.com/pIuJqYk.png",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+

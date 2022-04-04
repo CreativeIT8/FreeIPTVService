@@ -264,7 +264,7 @@ http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="CreativeIT Sports",86.Sony Ten 3 HD
 http://103.55.144.46:80/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="CreativeIT Sports",87.Star Sports 1 HD
-
+https://wsvod.neestream.net/anandmedia/sports01/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="CreativeIT Sports",88.Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="CreativeIT Sports",89.Star Sports Select 1 HD 

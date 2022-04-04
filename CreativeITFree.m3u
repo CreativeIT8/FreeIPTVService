@@ -182,6 +182,9 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/149
 #EXTINF:-1 group-title="CreativeIT KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555",ANIPlus
 http://210.210.155.35/dr9445/h/h02/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="CreativeIT KIDS",Disney Channel
+http://103.153.39.36:8000/play/a01y
+
 
 
 #EXTINF:-1 group-title="CreativeIT KIDS" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior

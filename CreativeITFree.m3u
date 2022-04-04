@@ -268,7 +268,7 @@ http://103.55.144.46:80/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="CreativeIT Sports",88.Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="CreativeIT Sports",89.Star Sports Select 1 HD 
-
+https://wsvod.neestream.net/anandmedia/sports01/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="CreativeIT Sports",90.Star Sports Select 2 HD
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="CreativeIT Sports",91.Sky Sports Cricket
@@ -279,3 +279,34 @@ http://93.152.174.144:4000/play/skysports5/index.m3u8
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="CreativeIT Sports",94.PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qYlXive.png" group-title="CreativeIT Sports",Tsports HD 1
+http://103.111.120.94:8089/102/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="CreativeIT Sports",Tsports HD 2
+http://103.85.238.78/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="CreativeIT Sports",Tsports HD 3
+http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="CreativeIT Sports",Tsports HD 4
+http://103.159.4.38:9090/BD-BANGLA-8/index.m3u8
+
+
+**************LiveSports**********CreativeIT**********
+
+
+#EXTINF:-1 group-title="CreativeIT LiveSports" tvg-logo="http://bciptv.net/assets/images/live.jpg", IPL 1
+https://localiptv.ml/BANvsSA_TEST_LIVE_1.m3u8
+#EXTINF:-1 group-title="CreativeIT LiveSports" tvg-logo="http://bciptv.net/assets/images/live.jpg",  IPL 2
+https://wsvod.neestream.net/anandmedia/sports01/index.m3u8
+#EXTINF:-1 group-title="CreativeIT LiveSports" tvg-logo="http://bciptv.net/assets/images/live.jpg", IPL 3
+https://sami-rian.tk/Join-us-on-telegram_@AllLiveSportsLinks/IPL_English.m3u8
+#EXTINF:-1 group-title="CreativeIT LiveSports" tvg-logo="http://bciptv.net/assets/images/live.jpg",  IPL 4
+https://SPORTS-KING.TK/HIGH_DYNAMIC_AUTO_HD.m3u8
+
+
+
+
+
+
+******Only Made for CreativeIT Users********
+
+-CreativeIT

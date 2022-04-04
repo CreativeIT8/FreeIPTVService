@@ -264,7 +264,7 @@ http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="CreativeIT Sports",86.Sony Ten 3 HD
 http://103.55.144.46:80/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="CreativeIT Sports",87.Star Sports 1 HD
-https://wsvod.neestream.net/anandmedia/sports01/index.m3u8
+http://103.149.130.122:8089/25/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="CreativeIT Sports",88.Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="CreativeIT Sports",89.Star Sports Select 1 HD 
@@ -296,7 +296,7 @@ http://103.159.4.38:9090/BD-BANGLA-8/index.m3u8
 #EXTINF:-1 group-title="CreativeIT LiveSports" tvg-logo="http://bciptv.net/assets/images/live.jpg", IPL 1
 https://localiptv.ml/BANvsSA_TEST_LIVE_1.m3u8
 #EXTINF:-1 group-title="CreativeIT LiveSports" tvg-logo="http://bciptv.net/assets/images/live.jpg",  IPL 2
-https://wsvod.neestream.net/anandmedia/sports01/index.m3u8
+http://103.149.130.122:8089/25/index.m3u8
 #EXTINF:-1 group-title="CreativeIT LiveSports" tvg-logo="http://bciptv.net/assets/images/live.jpg", IPL 3
 https://sami-rian.tk/Join-us-on-telegram_@AllLiveSportsLinks/IPL_English.m3u8
 #EXTINF:-1 group-title="CreativeIT LiveSports" tvg-logo="http://bciptv.net/assets/images/live.jpg",  IPL 4
